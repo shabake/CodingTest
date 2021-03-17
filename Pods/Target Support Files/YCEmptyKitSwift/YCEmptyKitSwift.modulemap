@@ -1,0 +1,6 @@
+framework module YCEmptyKitSwift {
+  umbrella header "YCEmptyKitSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
